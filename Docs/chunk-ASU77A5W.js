@@ -1,1 +1,0 @@
-import{Ba as m,Ca as n,Da as a,pa as o}from"./chunk-ZUWDOLI2.js";var i=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-home"]],decls:2,vars:0,template:function(e,p){e&1&&(m(0,"p"),a(1,"home works!"),n())},encapsulation:2})};export{i as Home};
